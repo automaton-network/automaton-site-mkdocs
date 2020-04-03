@@ -1,4 +1,4 @@
-name: Doxygen generation
+name: Generate and Publish MkDocs site
 
 on:
   push:
